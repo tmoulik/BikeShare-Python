@@ -1,2 +1,2 @@
 # Udacity-Python-Project
-The two files are the Jupyter Notebook and the related html file. These files analyse the Bikeshare data for the Udacity Python Project.
+The file Bike_share_Analysis.ipynb is the Jupyter notebook which contains codes related to analysing the Bike share data as part of the Data analysis course at Udacity. The programming language used is Python. The html file is the related html version of the notebook.
